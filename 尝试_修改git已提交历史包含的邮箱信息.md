@@ -22,5 +22,7 @@ Reset the author information on your last commit:
 ## 3. 修改整个仓库的错误邮箱
 - [参考](https://help.github.com/en/articles/changing-author-info)
 > 不建议使用，对历史记录有破坏性。我在test仓库执行了多次，导致有很多记录重复。不过尝试一下也好。对于不懂的东西要在test库上尝试，具有好奇心，勤动手没问题。告一段落。
+- 还可以参考git的对应文档<https://git-scm.com/book/zh/v1/Git-%E5%B7%A5%E5%85%B7-%E9%87%8D%E5%86%99%E5%8E%86%E5%8F%B2>，在文档最后面
+
 
 
